@@ -6,52 +6,107 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jmreddy2106.github.io/algorithm-notes/resources/</loc>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/overview/</loc>
          <lastmod>2026-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jmreddy2106.github.io/algorithm-notes/examples/algorithm-examples/</loc>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/resources/</loc>
          <lastmod>2026-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jmreddy2106.github.io/algorithm-notes/examples/complexity-examples-1/</loc>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/examples/algorithm-examples/</loc>
          <lastmod>2026-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jmreddy2106.github.io/algorithm-notes/examples/complexity-examples-2/</loc>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/examples/complexity-examples-1/</loc>
          <lastmod>2026-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jmreddy2106.github.io/algorithm-notes/introduction/properties/</loc>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/examples/complexity-examples-2/</loc>
          <lastmod>2026-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jmreddy2106.github.io/algorithm-notes/introduction/what-is-algorithm/</loc>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/introduction/properties/</loc>
          <lastmod>2026-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jmreddy2106.github.io/algorithm-notes/performance/amortized-analysis/</loc>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/introduction/what-is-algorithm/</loc>
          <lastmod>2026-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jmreddy2106.github.io/algorithm-notes/performance/overview/</loc>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/performance/amortized-analysis/</loc>
          <lastmod>2026-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jmreddy2106.github.io/algorithm-notes/performance/space-complexity/</loc>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/performance/overview/</loc>
          <lastmod>2026-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jmreddy2106.github.io/algorithm-notes/performance/time-complexity/</loc>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/performance/space-complexity/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit1/performance/time-complexity/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit2/binary-search/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit2/disjoint-sets/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit2/divide-and-conquer/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit2/merge-sort/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit2/overview/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit2/quick-sort/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit2/strassen/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit3/overview/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit4/overview/</loc>
+         <lastmod>2026-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jmreddy2106.github.io/algorithm-notes/unit5/overview/</loc>
          <lastmod>2026-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>

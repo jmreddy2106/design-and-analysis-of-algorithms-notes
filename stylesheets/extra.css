@@ -352,3 +352,9 @@
   [data-md-color-scheme="slate"] ::-webkit-scrollbar-thumb:hover {
     background: #666;
   }
+
+  /* Make next/previous look more like buttons */
+.md-footer-nav__link {
+  border-radius: 12px;
+  padding: 10px 14px;
+}
